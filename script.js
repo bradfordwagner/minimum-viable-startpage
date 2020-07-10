@@ -1,4 +1,4 @@
-const NAME = "John";
+const NAME = "Bradford";
 const WELCOME_MESSAGE_TEMPLATE = ["night", "morning", "afternoon", "evening"];
 
 // All shortcuts are in a `SHORTCUT_STARTER+shortcutKey` format. 
@@ -7,7 +7,7 @@ const SHORTCUT_STARTER = 'tab'
 
 // How much time (in milliseconds) you have to press shortcutKey after pressing SHORTCUT_STARTER.
 // Also change --SHORTCUT_TIMEOUT in styles.css if you change this option.
-const SHORTCUT_TIMEOUT = 1500;
+const SHORTCUT_TIMEOUT = 3000;
 
 // The groups of links are generated from this object. Edit it to edit the page's contents.
 // shortcutKey must hold an all-lowercase single button. Theoretically should work with values like `esc` and `f1`,
@@ -24,7 +24,7 @@ const MASTER_MAP = [
     {
         "groupName": "Work",
         "items":[
-            {"name": "Item D", "shortcutKey": "a", "url": "https://google.com/?q=a"},
+            {"name": "webster", "shortcutKey": "a", "url": "https://webster.bfm.com"},
             {"name": "Item E", "shortcutKey": "s", "url": "https://google.com/?q=s"},
             {"name": "Item F", "shortcutKey": "d", "url": "https://google.com/?q=d"}
         ]
