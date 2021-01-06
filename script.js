@@ -25,7 +25,7 @@ const MASTER_MAP = [
         "groupName": "Work",
         "items":[
             {"name": "webster", "shortcutKey": "a", "url": "https://webster.bfm.com"},
-            {"name": "Item E", "shortcutKey": "s", "url": "https://google.com/?q=s"},
+            {"name": "vault", "shortcutKey": "v", "url": "https://localhost:8200/ui/vault/auth?with=token"},
             {"name": "Item F", "shortcutKey": "d", "url": "https://google.com/?q=d"}
         ]
     },
