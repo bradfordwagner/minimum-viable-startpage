@@ -26,7 +26,7 @@ const MASTER_MAP = [
         "items":[
             {"name": "webster", "shortcutKey": "a", "url": "https://webster.bfm.com"},
             {"name": "vault", "shortcutKey": "v", "url": "https://localhost:8200/ui/vault/secrets?namespace=aladdin%2Fdev"},
-            {"name": "vault.dev.ewd-0", "shortcutKey": "d", "url": "https://ewd-0.tkgi.dev.blackrock.com:443"}
+            {"name": "vault.dev.bwe", "shortcutKey": "d", "url": "https://bw-0.tkgi.dev.blackrock.com:443"}
         ]
     },
     {
